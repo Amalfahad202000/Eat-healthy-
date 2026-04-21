@@ -20,3 +20,11 @@ This project is currently in early development as I am learning iOS development 
 - Swift
 - iOS Development
 - UI/UX Design
+## 📱 Current Status
+This project is currently in the design and planning stage. I am working on learning Swift and iOS development tools to build the first version of the app in the future.
+
+## 🚧 Future Features
+- Personalized meal recommendations
+- Goal-based nutrition system
+- Simple user-friendly interface
+- Food categories and suggestions
