@@ -1,2 +1,22 @@
 # Eat-healthy-
 This app is a personalized healthy meal planner that matches users’ nutritional goals—whether gaining weight, building muscle, or staying balanced. Users set their targets, and the app suggests meals tailored to their needs. Each recipe is balanced, helping them stay on track with their fitness goals.
+## 🍏 Eat Healthy App
+
+This project is a simple iOS app idea for a personalized healthy meal planner.
+
+### 💡 Idea
+The app helps users choose balanced meals based on their goals such as:
+- Weight gain
+- Muscle building
+- Healthy lifestyle
+
+### 🎯 Goal
+To make healthy eating easier by suggesting simple and balanced meals based on user needs.
+
+### 🛠 Status
+This project is currently in early development as I am learning iOS development using Swift.
+
+### 🚀 Tech Interest
+- Swift
+- iOS Development
+- UI/UX Design
